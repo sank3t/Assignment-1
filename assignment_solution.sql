@@ -9,7 +9,8 @@ SELECT
   DISTINCT DEPARTMENT
 FROM
   Worker
-ORDER BY DEPARTMENT;
+ORDER BY
+  DEPARTMENT;
 
 -- Ques 3. Write an SQL query to print the first three characters of FIRST_NAME from the Worker table.
 SELECT
